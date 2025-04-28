@@ -4,3 +4,6 @@ Refreshing algorithms and data structures knowledge through exercises from the [
 Using TypeScript to practice key patterns and strengthen problem-solving skills.
 
 
+## Files
+
+-   **BinarySearchList.ts** – Binary search in a sorted list using recursion.
