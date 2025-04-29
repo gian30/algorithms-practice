@@ -8,4 +8,7 @@ Using TypeScript to practice key patterns and strengthen problem-solving skills.
 
 -   **BinarySearchList.ts** – Binary search in a sorted list using recursion.
 -   **BubbleSort.ts** – Basic bubble sort algorithm for array sorting.
+-   **LinearSearchList.ts** – Linear search to find an element in an array.
 -   **MazeSolver.ts** – Solves a maze from start to finish using depth-first search.
+
+
