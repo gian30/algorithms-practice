@@ -11,3 +11,4 @@ Using TypeScript to practice key patterns and strengthen problem-solving skills.
 -   **LinearSearchList.ts** – Linear search to find an element in an array.
 -   **MazeSolver.ts** – Solves a maze from start to finish using depth-first search.
 -   **Queue.ts** – Queue data structure with enqueue, dequeue, and peek.
+-   **TwoCrystalBalls.ts** – Solve the two-crystal-balls problem with an optimal jumping strategy.
